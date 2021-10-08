@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is sample text
+=======
+Hello this is sample text.
+>>>>>>> eee6f576f0b13eb192ad870e0da415d24c599992
